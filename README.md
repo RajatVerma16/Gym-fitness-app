@@ -5,3 +5,4 @@ Technology used - React js
 .
 What this app do --
 User have to select the type of workout and this will generate the respective exercice to be performed.
+Live project link - https://gym-training-app.netlify.app/
